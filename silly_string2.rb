@@ -1,4 +1,4 @@
-#Create a string that contains your favorite word. It can be in any language!
+#Create a string that contains your favorite youtuber.
 
-favorite_word = "Joey Kidney"
-puts 
+favorite_youtuber = "Joey Kidney"
+puts "My favorite youtuber is "
