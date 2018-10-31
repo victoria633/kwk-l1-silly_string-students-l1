@@ -6,3 +6,4 @@ puts "My favorite youtuber is #{favorite_youtuber}"
 #Using a method built into ruby, capitalize every letter in the string you just created
 
 favorite_youtuber_all_caps = favorite_youtuber
+puts 
