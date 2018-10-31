@@ -12,4 +12,4 @@ puts "My favorite youtuber is #{favorite_youtuber_all_caps}".upcase
 
 phrase = "I'M NOT SHOUTING".downcase
  lowercase_phrase = phrase 
- puts 
+ puts lowercase_phrase
