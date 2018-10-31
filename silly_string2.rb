@@ -9,7 +9,7 @@ favorite_youtuber_all_caps = favorite_youtuber
 puts "My favorite youtuber is #{favorite_youtuber_all_caps}".upcase
 
 # Now let's make all the characters lowercase in the string
+
 phrase = "I'M NOT SHOUTING".downcase
- 
  lowercase_phrase = phrase 
  
